@@ -1,15 +1,16 @@
-# Welcome!
+# Welcome to Frontend Party! We like to build stuff and hangout.
 
 ## Links
-- https://www.twitch.tv/nolafrontendparty
-- slack?
+- [Monthly README](https://github.com/frontEndParty/MonthlyREADME/blob/main/README.md)
+- [Twitch](https://www.twitch.tv/nolafrontendparty)
+- [Slack](https://nola.slack.com/archives/C05CT3DG0F4)
+
 ## Project Boards
-- a
-- b
-- c
+- obsidian plugin?
+
 ## Repos
-- a
-- b
-- c
+- [Ding Dong Microhack](https://github.com/frontEndParty/dingdong-backend)
+- [Obsidian Microhack](https://github.com/frontEndParty/obsidian-micro-hack)
+
 ## Issues
-- xyz...?
+- ✨none✨
