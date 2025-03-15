@@ -13,8 +13,15 @@
 
 ## Links
 - [Monthly README](https://github.com/frontEndParty/MonthlyREADME/blob/main/README.md)
+  
+- [Nola Devs](https://www.noladevs.org/group/frontend-party)
+  
 - [Twitch](https://www.twitch.tv/nolafrontendparty)
-- [Slack](https://nola.slack.com/archives/C05CT3DG0F4)
+  
+- [Slack](nola.slack.com/archives/front-end-party)
+  
+  If the Slack link doesn't work, you probably aren't in the Nola Devs Slack. [Click here for an invite!](https://join.slack.com/t/nola/shared_invite/zt-31raame4i-4OPh_OYUDXUKbd0_LYdX8g)
+  
 
 ## Project Boards
 - obsidian plugin?
