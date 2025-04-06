@@ -24,7 +24,8 @@
   
 
 ## Project Boards
-- [Board](https://github.com/orgs/frontEndParty/projects/2)
+- [Events Board](https://github.com/orgs/frontEndParty/projects/4/views/1)
+- [Iteration Board](https://github.com/orgs/frontEndParty/projects/2)
 
 ## Repos
 - [Ding Dong Microhack](https://github.com/frontEndParty/dingdong-backend)
