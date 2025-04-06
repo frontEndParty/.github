@@ -24,7 +24,7 @@
   
 
 ## Project Boards
-- obsidian plugin?
+- [Board](https://github.com/orgs/frontEndParty/projects/2)
 
 ## Repos
 - [Ding Dong Microhack](https://github.com/frontEndParty/dingdong-backend)
