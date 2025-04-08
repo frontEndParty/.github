@@ -12,7 +12,7 @@
 <br>
 
 ## Links
-- [Monthly README](https://github.com/frontEndParty/MonthlyREADME/blob/main/README.md) /* <<-- ✨start here✨ */
+- [Monthly README](https://github.com/frontEndParty/MonthlyREADME/blob/main/README.md) /* ✨start here✨ */
   
 - [Nola Devs](https://www.noladevs.org/group/frontend-party)
   
